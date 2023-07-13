@@ -1,0 +1,9 @@
+name: MMCPets
+version: '${project.version}'
+main: mmcpets.mmcpets.MMCPets
+api-version: 1.19
+load: STARTUP
+authors: [ Codezey ]
+description: Pets Menu
+commands:
+  pets:

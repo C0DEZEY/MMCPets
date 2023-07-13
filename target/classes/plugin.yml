@@ -1,0 +1,9 @@
+name: MMCPets
+version: '1.0-SNAPSHOT'
+main: mmcpets.mmcpets.MMCPets
+api-version: 1.19
+load: STARTUP
+authors: [ Codezey ]
+description: Pets Menu
+commands:
+  pets:
